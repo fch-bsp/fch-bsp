@@ -52,6 +52,10 @@
 ### E-mail: 
 [![Top Langs](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nandohoras@gmail.com)
 
+##
+
+![Snake animation](https://github.com/fch-bsp/fch-bsp/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
