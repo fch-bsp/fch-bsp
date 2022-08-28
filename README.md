@@ -13,13 +13,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fch-bsp&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-
+##
 
 
 
 ### Tecnologias que eu utilizo no meu dia dia 💻
 
-
+##
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white " />
@@ -46,7 +46,9 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white " />
 </div><br/> 
 
+
 ### Apaixonado por tecnologia,transformando arquitetura monolítica em micro-serviço e ambiente On-premises em Cloud ☁️ ☁️ 
+##
 ### E-mail: 
 [![Top Langs](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nandohoras@gmail.com)
 
