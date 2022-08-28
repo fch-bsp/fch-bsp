@@ -16,13 +16,13 @@
 
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white " />
 <img align="center" alt="html5" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white " />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white " />
 <img align="center" alt="html5" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white " />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white " />
-<img align="center" alt="html5" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white " />
+<img align="center" alt="html5" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" />  
 </br><br/>  
 <img align="center" alt="html5" src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white " />
 <img align="center" alt="html5" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white " />
