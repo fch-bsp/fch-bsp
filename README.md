@@ -9,8 +9,8 @@
 [![Linkedin](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home)
 <div>
 <a href="https://github.com/fch-bsp">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fch-bsp&show_icons=true&theme=synthwave"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fch-bsp"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fch-bsp&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fch-bsp&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
