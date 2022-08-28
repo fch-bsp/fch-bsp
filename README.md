@@ -48,9 +48,6 @@
 
 
 ### Apaixonado por tecnologia,transformando arquitetura monolítica em micro-serviço e ambiente On-premises em Cloud ☁️ ☁️ 
-##
-### E-mail: 
-[![Top Langs](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nandohoras@gmail.com)
 
 ##
 
