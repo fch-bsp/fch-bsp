@@ -38,6 +38,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white " />
 <img align="center" alt="html5" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch " />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white " />
+<img align="center" alt="html5" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white " />
 </br><br/>   
 <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black " />
 <img align="center" alt="html5" src="https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white " />
