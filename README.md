@@ -1,4 +1,4 @@
-### Olá! Eu sou o Fernando Horas ✌️
+### Olá! Eu sou o Fernando Horas 🤓✌️
 
 [![Linkedin](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.fchdigital.com.br/p%C3%A1gina-inicial)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
