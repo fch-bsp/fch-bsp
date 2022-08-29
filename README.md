@@ -16,10 +16,9 @@
 
 ##
 
-
-
-
 ### Tecnologias que eu utilizo no meu dia dia:
+[![Linkedin](https://media-exp1.licdn.com/dms/image/C4D22AQGxhQlpTFWqRA/feedshare-shrink_800/0/1661797929113?e=1664409600&v=beta&t=xsMp_lETluHn2GlwzZTe0CG1KpebUdcuUlhrIS06_VA)
+
   
 ##
 
