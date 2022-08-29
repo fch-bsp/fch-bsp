@@ -18,8 +18,9 @@
 
 
 
-### Tecnologias que eu utilizo no meu dia dia 💻
 
+### Tecnologias que eu utilizo no meu dia dia:
+  
 ##
 
 <div style="display: inline_block"><br/>
