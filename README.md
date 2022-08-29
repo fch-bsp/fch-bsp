@@ -5,8 +5,9 @@
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/-/profile)
 [![Linkedin](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home)
 [![TikTock](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fernandohoras88)
-[![TikTock](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fernandohoras)
-[![Linkedin](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511995143947)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fernandohoras)
+
 <div>
 <a href="https://github.com/fch-bsp">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fch-bsp&show_icons=true&theme=dark"/>
@@ -50,6 +51,10 @@
 ### Apaixonado por tecnologia,transformando arquitetura monolítica em micro-serviço e ambiente On-premises em Cloud ☁️ ☁️ 
 
 ##
+
+### Fique a vontade para entrar em contato:
+[![Linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511995143947)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fernandohoras)
 
 ![Snake animation](https://github.com/fch-bsp/fch-bsp/blob/output/github-contribution-grid-snake.svg)
 
