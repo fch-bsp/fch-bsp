@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.meu&logoColor=white)](https://www.fchdigital.com.br/p%C3%A1gina-inicial)
 [![Linkedin](https://img.shields.io/badge/-Fernando-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-horas-b933b848/)](https://www.linkedin.com/in/fernando-horas-b933b848/)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/-/profile)
-[![Linkedin](https://img.shields.io/badge/-Fernando-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/fernando-horas-b933b848/)](https://twitter.com/FERNANDOHORAS) 
+[![Twitter](https://img.shields.io/badge/-Fernando-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/fernando-horas-b933b848/)](https://twitter.com/FERNANDOHORAS) 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5aMWGP2UyQN--oJR9eEqcw)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511995143947)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fernandohoras)
@@ -64,8 +64,9 @@
 [![Linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511995143947)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fernandohoras)
 [![Linkedin](https://img.shields.io/badge/-Fernando-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-horas-b933b848/)](https://www.linkedin.com/in/fernando-horas-b933b848/)
+[![Twitter](https://img.shields.io/badge/-Fernando-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/fernando-horas-b933b848/)](https://twitter.com/FERNANDOHORAS) 
 [![Gmail](https://img.shields.io/badge/-fernando.horas@bspcloud.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fernando.horas@bspcloud.com)](mailto:fernando.horas@bspcloud.com)
-[![Linkedin](https://img.shields.io/badge/-Fernando-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/fernando-horas-b933b848/)](https://twitter.com/FERNANDOHORAS) 
+
 
 
 
