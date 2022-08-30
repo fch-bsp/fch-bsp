@@ -65,6 +65,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fernandohoras)
 [![Linkedin](https://img.shields.io/badge/-Fernando-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-horas-b933b848/)](https://www.linkedin.com/in/fernando-horas-b933b848/)
 [![Gmail](https://img.shields.io/badge/-fernando.horas@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fernando.horas@gmail.com)](mailto:fernando.horas@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Fernando-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/fernando-horas-b933b848/)](https://twitter.com/FERNANDOHORAS) 
+
+
+
+##
 ![Snake animation](https://github.com/fch-bsp/fch-bsp/blob/output/github-contribution-grid-snake.svg)
 
 
