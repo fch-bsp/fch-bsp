@@ -7,13 +7,15 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://br.pinterest.com/fcarloshoras/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511995143947)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fernandohoras)
-[![Piterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/fcarloshoras/)
 
-<div>
-<a href="https://github.com/fch-bsp">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fch-bsp&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fch-bsp&layout=compact&langs_count=16&theme=dark"/>
+ 
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fch-bsp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fch-bsp&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+
 
 ##
 
