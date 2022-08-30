@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Fernando Horas 🤓✌️
 
 [![Linkedin](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.fchdigital.com.br/p%C3%A1gina-inicial)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Linkedin](https://img.shields.io/badge/-Fernando-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-horas-b933b848/)](https://www.linkedin.com/in/fernando-horas-b933b848/)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/-/profile)
-[![Linkedin](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5aMWGP2UyQN--oJR9eEqcw)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511995143947)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fernandohoras)
@@ -18,8 +18,7 @@
 
 ### Tecnologias que utilizo no meu dia dia 💻
 <img align="center" alt="html5" src="https://media-exp1.licdn.com/dms/image/C4D22AQGxhQlpTFWqRA/feedshare-shrink_800/0/1661797929113?e=1664409600&v=beta&t=xsMp_lETluHn2GlwzZTe0CG1KpebUdcuUlhrIS06_VA" />
-
-  
+ 
 ##
 
 <div style="display: inline_block"><br/>
@@ -64,7 +63,8 @@
 ### Fique a vontade para entrar em contato:
 [![Linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511995143947)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fernandohoras)
-
+[![Linkedin](https://img.shields.io/badge/-Fernando-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-horas-b933b848/)](https://www.linkedin.com/in/fernando-horas-b933b848/)
+[![Gmail](https://img.shields.io/badge/-fernando.horas@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fernando.horas@gmail.com)](mailto:fernando.horas@gmail.com)
 ![Snake animation](https://github.com/fch-bsp/fch-bsp/blob/output/github-contribution-grid-snake.svg)
 
 
