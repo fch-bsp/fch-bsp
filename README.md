@@ -110,4 +110,4 @@ Fique à vontade para entrar em contato:
 
 ---
 
-![Snake animation](https://github.com/fch-bsp/fch-bsp/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/fch-bsp/fch-bsp/output/github-contribution-grid-snake.svg)
