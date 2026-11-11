@@ -94,8 +94,9 @@ SaaS em AWS para ocupação de mesas de restaurante, com detecção na borda e i
 
 <div>
   <a href="https://github.com/fch-bsp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fch-bsp&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fch-bsp&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fch-bsp&theme=github_dark"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fch-bsp&theme=github_dark"/>
+  </a>
 </div>
 
 ## Contato
